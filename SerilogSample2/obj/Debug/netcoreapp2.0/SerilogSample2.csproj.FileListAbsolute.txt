@@ -1,0 +1,10 @@
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/bin/Debug/netcoreapp2.0/SerilogSample2.deps.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/bin/Debug/netcoreapp2.0/SerilogSample2.runtimeconfig.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/bin/Debug/netcoreapp2.0/SerilogSample2.runtimeconfig.dev.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/bin/Debug/netcoreapp2.0/SerilogSample2.dll
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/bin/Debug/netcoreapp2.0/SerilogSample2.pdb
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/obj/Debug/netcoreapp2.0/SerilogSample2.csproj.CoreCompileInputs.cache
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/obj/Debug/netcoreapp2.0/SerilogSample2.AssemblyInfoInputs.cache
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/obj/Debug/netcoreapp2.0/SerilogSample2.AssemblyInfo.cs
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/obj/Debug/netcoreapp2.0/SerilogSample2.dll
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/obj/Debug/netcoreapp2.0/SerilogSample2.pdb

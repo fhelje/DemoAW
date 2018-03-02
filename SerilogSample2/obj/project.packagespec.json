@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/SerilogSample2.csproj",
+    "projectName": "SerilogSample2",
+    "projectPath": "/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/SerilogSample2.csproj",
+    "outputPath": "/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogSample2/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Serilog.Formatting.Compact": {
+          "target": "Package",
+          "version": "[1.0.0, )"
+        },
+        "Serilog.Sinks.Console": {
+          "target": "Package",
+          "version": "[3.1.1, )"
+        },
+        "Serilog.Sinks.Literate": {
+          "target": "Package",
+          "version": "[3.0.0, )"
+        },
+        "serilog": {
+          "target": "Package",
+          "version": "[2.6.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

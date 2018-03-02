@@ -1,0 +1,10 @@
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/obj/Debug/netcoreapp2.0/SerilogEnrichment.csproj.CoreCompileInputs.cache
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/obj/Debug/netcoreapp2.0/SerilogEnrichment.AssemblyInfoInputs.cache
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/obj/Debug/netcoreapp2.0/SerilogEnrichment.AssemblyInfo.cs
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/bin/Debug/netcoreapp2.0/SerilogEnrichment.deps.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/bin/Debug/netcoreapp2.0/SerilogEnrichment.runtimeconfig.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/bin/Debug/netcoreapp2.0/SerilogEnrichment.runtimeconfig.dev.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/bin/Debug/netcoreapp2.0/SerilogEnrichment.dll
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/bin/Debug/netcoreapp2.0/SerilogEnrichment.pdb
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/obj/Debug/netcoreapp2.0/SerilogEnrichment.dll
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/obj/Debug/netcoreapp2.0/SerilogEnrichment.pdb

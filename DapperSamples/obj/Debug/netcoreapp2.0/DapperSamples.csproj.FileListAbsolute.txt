@@ -1,0 +1,10 @@
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/bin/Debug/netcoreapp2.0/DapperSamples.deps.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/bin/Debug/netcoreapp2.0/DapperSamples.runtimeconfig.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/bin/Debug/netcoreapp2.0/DapperSamples.runtimeconfig.dev.json
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/bin/Debug/netcoreapp2.0/DapperSamples.dll
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/bin/Debug/netcoreapp2.0/DapperSamples.pdb
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/obj/Debug/netcoreapp2.0/DapperSamples.csproj.CoreCompileInputs.cache
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/obj/Debug/netcoreapp2.0/DapperSamples.AssemblyInfoInputs.cache
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/obj/Debug/netcoreapp2.0/DapperSamples.AssemblyInfo.cs
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/obj/Debug/netcoreapp2.0/DapperSamples.dll
+/Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/DapperSamples/obj/Debug/netcoreapp2.0/DapperSamples.pdb

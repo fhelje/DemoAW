@@ -1,0 +1,62 @@
+2018-03-02 09:28:02.645 +01:00 [INF] Calculating
+2018-03-02 09:28:02.774 +01:00 [DBG] Entering loop 0
+2018-03-02 09:28:02.799 +01:00 [ERR] Calculation failed for index 0
+System.Exception: Wrong index
+   at SerilogEnrichment.Program.Main(String[] args) in /Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/Program.cs:line 43
+2018-03-02 09:28:02.855 +01:00 [DBG] Entering loop 1
+2018-03-02 09:28:02.855 +01:00 [DBG] Entering loop 2
+2018-03-02 09:28:02.856 +01:00 [DBG] Entering loop 3
+2018-03-02 09:28:02.856 +01:00 [DBG] Entering loop 4
+2018-03-02 09:28:02.856 +01:00 [DBG] Entering loop 5
+2018-03-02 09:28:02.856 +01:00 [DBG] Entering loop 6
+2018-03-02 09:28:02.856 +01:00 [ERR] Calculation failed for index 6
+System.Exception: Wrong index
+   at SerilogEnrichment.Program.Main(String[] args) in /Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/Program.cs:line 43
+2018-03-02 09:28:02.858 +01:00 [DBG] Entering loop 7
+2018-03-02 09:28:02.858 +01:00 [DBG] Entering loop 8
+2018-03-02 09:28:02.858 +01:00 [DBG] Entering loop 9
+2018-03-02 09:28:02.867 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.871 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.871 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.871 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.871 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:02.871 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.872 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:02.872 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.872 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:02.872 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.872 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:02.872 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:02.872 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:03.033 +01:00 [INF] Performing timing. Overlord in completed ms
+2018-03-02 09:28:16.324 +01:00 [INF] Calculating
+2018-03-02 09:28:16.375 +01:00 [DBG] Entering loop 0
+2018-03-02 09:28:16.385 +01:00 [ERR] Calculation failed for index 0
+System.Exception: Wrong index
+   at SerilogEnrichment.Program.Main(String[] args) in /Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/Program.cs:line 43
+2018-03-02 09:28:16.408 +01:00 [DBG] Entering loop 1
+2018-03-02 09:28:16.408 +01:00 [DBG] Entering loop 2
+2018-03-02 09:28:16.408 +01:00 [DBG] Entering loop 3
+2018-03-02 09:28:16.408 +01:00 [DBG] Entering loop 4
+2018-03-02 09:28:16.408 +01:00 [DBG] Entering loop 5
+2018-03-02 09:28:16.428 +01:00 [DBG] Entering loop 6
+2018-03-02 09:28:16.429 +01:00 [ERR] Calculation failed for index 6
+System.Exception: Wrong index
+   at SerilogEnrichment.Program.Main(String[] args) in /Users/frankheljebrandt/Code/temp/Serilog/SerilogSamples/SerilogEnrichment/Program.cs:line 43
+2018-03-02 09:28:16.429 +01:00 [DBG] Entering loop 7
+2018-03-02 09:28:16.429 +01:00 [DBG] Entering loop 8
+2018-03-02 09:28:16.434 +01:00 [DBG] Entering loop 9
+2018-03-02 09:28:16.436 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.437 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:16.437 +01:00 [DBG] Checking data is not bigger than 10
+2018-03-02 09:28:16.438 +01:00 [ERR] Value is to large!
+2018-03-02 09:28:16.590 +01:00 [INF] Performing timing. Overlord in completed ms
